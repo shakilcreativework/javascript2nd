@@ -52,3 +52,9 @@ ternary structure: condition ? ... : ...;
 !!true => !false => !true
 
 
+10. What is array?
+
+array enables storing a collection of multiple items under a signle variable name.
+
+
+11. 
